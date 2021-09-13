@@ -28,7 +28,7 @@
 | Steak & Chicken              | 250     |
 | Steak & Lobster              | 800     |
 | Cheese Pizza                 | 300     |
-| Mac % Cheese                 | 170     |
+| Mac & Cheese                 | 170     |
 
 
 ## Night Food
