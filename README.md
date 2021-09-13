@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Breakfast Menu]((Menu.md#Breakfast)
+[Breakfast Menu](Menu.md#Breakfast)
 
 
 ## About Us
