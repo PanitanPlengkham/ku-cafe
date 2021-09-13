@@ -2,13 +2,12 @@
 
 ## [Menu](Menu.md)
 
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
+[Breakfast Menu]((Menu.md#Breakfast)
 
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Noppharut | Breakfast | @Isolation |
+| Noppharut | Breakfast | [@Isolation](https://github.com/Isolation666) |
