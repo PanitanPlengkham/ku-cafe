@@ -3,8 +3,9 @@
 ## [Menu](Menu.md)
 
 
-[Beverages](Menu.md#Beverages)    
 
+[Beverages](Menu.md#Beverages)    
+[Breakfast Menu](Menu.md#Breakfast)
 [Lunch Menu](Menu.md#Lunch)    
 [Dinner](Menu.md#Dinner)    
 ## About Us
@@ -15,4 +16,4 @@
 | Pakapop | Beverages | [@abounk](https://github.com/abounk) |
 | Panitan Plengkham | Lunch Menu | [@PanitanPengkham](https://github.com/PanitanPlengkham)|
 | Panu Tanavatavivat | Dinner Menu | [@SoSorryTT](https://github.com/SoSorryTT) |
-
+| Noppharut | Breakfast | [@Isolation](https://github.com/Isolation666) |

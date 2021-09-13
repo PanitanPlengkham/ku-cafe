@@ -5,7 +5,10 @@
 
     Item                           Price
     Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+    Porridge                        25
+    Omelette                        30
+    Pork fried rice                 35
+    American Breakfast              50
 
 ## Lunch 
 
