@@ -23,7 +23,7 @@
 ## Dinner
 
 | Item                         | Price   |
-|:-----------------------------|---------|
+|:-----------------------------|---------:|
 | Grilled Salmon               | 200 Baht    |
 | Steak & Chicken              | 250 Baht    |
 | Steak & Lobster              | 800 Baht    |
@@ -33,7 +33,7 @@
 
 ## Night Food
 | Item      | Price      |
-|:----------|-----------|
+|:----------|-----------:|
 | Snacks | 30 Baht|
 | Softdrink | 25 Baht|
 | Waffle | 45 Baht|
