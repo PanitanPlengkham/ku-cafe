@@ -1,14 +1,18 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-[Dinner](Menu.md#Dinner)
 
 
+[Beverages](Menu.md#Beverages)    
 
+[Lunch Menu](Menu.md#Lunch)    
+[Dinner](Menu.md#Dinner)    
 ## About Us
-
 
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Panu Tanavatavivat | Dinner Menu | @SoSorryTT |
+| Pakapop | Beverages | @abounk |
+| Panitan Plengkham | Lunch Menu | [@PanitanPengkham](https://github.com/PanitanPlengkham)|
+| Panu Tanavatavivat | Dinner Menu | @SoSorryTT(https://github.com/SoSorryTT) |
+
