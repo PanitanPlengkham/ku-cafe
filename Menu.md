@@ -14,7 +14,12 @@
 
 
 ## Night Food
-
+| Menu      | Price      |
+|:----------|-----------|
+| Snacks | 30.0 |
+| Softdrink | 25.0 |
+| Waffle | 45.0 |
+| Sandwich | 40.0 |
 
 ## Beverages
 
