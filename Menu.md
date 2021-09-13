@@ -2,13 +2,13 @@
 
 
 ## Breakfast
-
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    Porridge                        25
-    Omelette                        30
-    Pork fried rice                 35
-    American Breakfast              50
+|Item                         | Price |
+|:---------------------------------------|------:|
+|Fried Grasshoppers (terrible) | -10 |
+|Porridge                       | 25 |
+|Omelette                        |30|
+|Pork fried rice                 |35|
+|American Breakfast              |50|
 
 ## Lunch 
 
@@ -32,7 +32,7 @@
 
 
 ## Night Food
-| Menu      | Price      |
+| Item      | Price      |
 |:----------|-----------|
 | Snacks | 30.0 |
 | Softdrink | 25.0 |
