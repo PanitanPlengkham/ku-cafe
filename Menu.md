@@ -1,50 +1,51 @@
 # KU Cafe Menu
-
+[Breakfast](Menu.md#Breakfast) | [Lunch](Menu.md#Lunch) | [Dinner](Menu.md#Dinner) | [Night Food](Menu.md#Night-Food) | [Beverages](Menu.md#Beverages)
 
 ## Breakfast
 |Item                         | Price |
 |:---------------------------------------|------:|
-|Porridge                       | 25.0 |
-|Omelette                        | 30.0 |
-|Pork fried rice                 | 35.0 |
-|American Breakfast              | 50.0 |
+|Porridge                       | 25 Baht|
+|Omelette                        |30 Baht|
+|Pork fried rice                 |35 Baht|
+|American Breakfast              |50 Baht|
+
 
 ## Lunch 
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Chicken & Rice Casserole                           |  150.0  |
-| Tender Roast Beef                           |  200.0  |
-| Chicken Strips                          |  50.0  |
-| Beef Burger                        |  180.0  |
-|Taco Salad with Romaine Lettuce, tomato & cheddar cheese |  220.0 |
+| Chicken & Rice Casserole                           |  150 Baht |
+| Tender Roast Beef                           |  200 Baht |
+| Chicken Strips                          |  50 Baht |
+| Beef Burger                        |  180 Baht |
+|Taco Salad with Romaine Lettuce, tomato & cheddar cheese |  220 Baht|
 
 ## Dinner
 
 | Item                         | Price   |
 |:-----------------------------|---------|
-| Grilled Salmon               | 200.0     |
-| Steak & Chicken              | 250.0     |
-| Steak & Lobster              | 800.0     |
-| Cheese Pizza                 | 300.0     |
-| Mac & Cheese                 | 170.0     |
+| Grilled Salmon               | 200 Baht    |
+| Steak & Chicken              | 250 Baht    |
+| Steak & Lobster              | 800 Baht    |
+| Cheese Pizza                 | 300 Baht    |
+| Mac & Cheese                 | 170 Baht    |
 
 
 ## Night Food
 | Item      | Price      |
 |:----------|-----------|
-| Snacks | 30.0 |
-| Softdrink | 25.0 |
-| Waffle | 45.0 |
-| Sandwich | 40.0 |
+| Snacks | 30 Baht|
+| Softdrink | 25 Baht|
+| Waffle | 45 Baht|
+| Sandwich | 40 Baht|
 
 ## Beverages
 | Item                | Price      | 
 |:--------------------|-----------:|
-| Mineral water       | 15.0    |
-| Cola                | 25.0    |
-| Orange juice        | 20.0    |
-| Iced lemon tea      | 25.0    |
+| Mineral water       | 15 Baht   |
+| Cola                | 25 Baht   |
+| Orange juice        | 20 Baht   |
+| Iced lemon tea      | 25 Baht   |
 
 
 ---
