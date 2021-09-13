@@ -1,6 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
+[Beverages](Menu.md#Beverages)  
 
 **TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
 
@@ -11,4 +12,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Pakapop | Beverages | @abounk |
