@@ -24,7 +24,12 @@
 
 
 ## Beverages
-
+| Item                | Price      | 
+|:--------------------|-----------:|
+| Mineral water       | 15 Baht    |
+| Cola                | 25 Baht    |
+| Orange juice        | 20 Baht    |
+| Iced lemon tea      | 25 Baht    |
 
 
 ---

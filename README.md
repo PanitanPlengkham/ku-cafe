@@ -1,6 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
+[Beverages](Menu.md#Beverages)  
 
 [Lunch Menu](Menu.md#Lunch)
 
@@ -9,5 +10,6 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Pakapop | Beverages | @abounk |
 | Panitan Plengkham | Lunch Menu | [@PanitanPengkham](https://github.com/PanitanPlengkham)|
 
