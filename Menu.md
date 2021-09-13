@@ -4,11 +4,11 @@
 ## Breakfast
 |Item                         | Price |
 |:---------------------------------------|------:|
-|Fried Grasshoppers (terrible) | 10 Baht|
 |Porridge                       | 25 Baht|
 |Omelette                        |30 Baht|
 |Pork fried rice                 |35 Baht|
 |American Breakfast              |50 Baht|
+
 
 ## Lunch 
 
@@ -42,10 +42,10 @@
 ## Beverages
 | Item                | Price      | 
 |:--------------------|-----------:|
-| Mineral water       | 15 Baht    |
-| Cola                | 25 Baht    |
-| Orange juice        | 20 Baht    |
-| Iced lemon tea      | 25 Baht    |
+| Mineral water       | 15 Baht   |
+| Cola                | 25 Baht   |
+| Orange juice        | 20 Baht   |
+| Iced lemon tea      | 25 Baht   |
 
 
 ---

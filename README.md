@@ -9,7 +9,7 @@
 
 [Lunch Menu](Menu.md#Lunch)
     
-[Dinner](Menu.md#Dinner)
+[Dinner Menu](Menu.md#Dinner)
 
 [Night Food](Menu.md#Night-Food)
 
