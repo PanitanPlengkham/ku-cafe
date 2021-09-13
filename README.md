@@ -3,13 +3,13 @@
 ## [Menu](Menu.md)
 [Beverages](Menu.md#Beverages)  
 
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
-
+[Lunch Menu](Menu.md#Lunch)
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Pakapop | Beverages | @abounk |
+| Panitan Plengkham | Lunch Menu | [@PanitanPengkham](https://github.com/PanitanPlengkham)|
+
