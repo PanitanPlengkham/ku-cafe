@@ -31,7 +31,7 @@
 | Mac % Cheese                 | 170     |
 
 
-## Night%20Food
+## Night Food
 | Item      | Price      |
 |:----------|-----------|
 | Snacks | 30.0 |
