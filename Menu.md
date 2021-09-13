@@ -4,11 +4,10 @@
 ## Breakfast
 |Item                         | Price |
 |:---------------------------------------|------:|
-|Fried Grasshoppers (terrible) | -10 |
-|Porridge                       | 25 |
-|Omelette                        |30|
-|Pork fried rice                 |35|
-|American Breakfast              |50|
+|Porridge                       | 25.0 |
+|Omelette                        | 30.0 |
+|Pork fried rice                 | 35.0 |
+|American Breakfast              | 50.0 |
 
 ## Lunch 
 
@@ -24,11 +23,11 @@
 
 | Item                         | Price   |
 |:-----------------------------|---------|
-| Grilled Salmon               | 200     |
-| Steak & Chicken              | 250     |
-| Steak & Lobster              | 800     |
-| Cheese Pizza                 | 300     |
-| Mac & Cheese                 | 170     |
+| Grilled Salmon               | 200.0     |
+| Steak & Chicken              | 250.0     |
+| Steak & Lobster              | 800.0     |
+| Cheese Pizza                 | 300.0     |
+| Mac & Cheese                 | 170.0     |
 
 
 ## Night Food
@@ -42,10 +41,10 @@
 ## Beverages
 | Item                | Price      | 
 |:--------------------|-----------:|
-| Mineral water       | 15 Baht    |
-| Cola                | 25 Baht    |
-| Orange juice        | 20 Baht    |
-| Iced lemon tea      | 25 Baht    |
+| Mineral water       | 15.0    |
+| Cola                | 25.0    |
+| Orange juice        | 20.0    |
+| Iced lemon tea      | 25.0    |
 
 
 ---
