@@ -11,7 +11,7 @@
     
 [Dinner](Menu.md#Dinner)
 
-[Night Food](Menu.md#Night Food)
+[Night Food](Menu.md#Night%20Food)
 
 ## About Us
 
